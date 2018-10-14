@@ -1,5 +1,8 @@
 ---
 layout: default
+permalink: /test/
+title: Test
+
 ---
 
 ## Title
