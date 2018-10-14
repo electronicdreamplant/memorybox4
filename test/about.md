@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: "/about/"
+permalink: "test/about/"
 exclude_from_search: true
 
 ---
