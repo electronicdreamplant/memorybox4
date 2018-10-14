@@ -1,6 +1,6 @@
 # Config settings
 title: Rowena's MemoryBox
-baseurl: "/memorybox"
+baseurl: "/memorybox4"
 
 # Search settings
 tipue_search:
@@ -18,4 +18,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 include: ['test', 'test/_posts']
+relative_permalinks: false
 
