@@ -1,9 +1,3 @@
 ---
-layout: default
-title: Test
-
+layout: home
 ---
-
-## Title
-
-Will this page be displayed?
