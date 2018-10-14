@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
-##Title
+## Title
 
 Will this page be displayed?
